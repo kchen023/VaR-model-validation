@@ -93,27 +93,6 @@ var-validation-suite/
 | **MC Normal** | CONDITIONAL REJECT | Same Gaussian tail failure as Parametric. No incremental benefit. |
 | **MC Student-t** | APPROVE AS CHALLENGER | Only method to pass both Kupiec and Christoffersen. Best stress-period calibration. Require dynamic nu estimation. |
 
----
-
-## Style
-
-Figures follow **Wall Street / econometrics presentation standards**:
-- White background, clean axis spines
-- Professional color palette: Navy (#1B2A4A), Crimson (#C0392B), Forest Green (#1A6B3A), Dark Orange (#D35400), Purple (#6C3483)
-- Regime shading with pastel fills
-- Monospace annotation boxes with statistical results
-- No dark backgrounds, no neon colors, no AI-aesthetic gradients
-
----
-
-## Quick Start
-
-```bash
-git clone https://github.com/kchen0788/var-validation-suite.git
-cd var-validation-suite
-pip install -r requirements.txt
-jupyter notebook notebooks/var_model_validation.ipynb
-```
 
 ---
 
