@@ -1,5 +1,5 @@
-# VaR Model Validation Suite — 2019–2025
-### SR 11-7 Compliant · Four-Method Market Risk Framework
+# Independent VaR Model Validation: Conceptual Soundness, Outcome Analysis & Ongoing Monitoring
+### SR 11-7 Framework · Four-Method Market Risk Framework
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![Framework: SR 11-7](https://img.shields.io/badge/Framework-SR%2011--7-red.svg)](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This project implements and **independently validates** a four-method Value-at-Risk (VaR) model suite for a multi-asset equity portfolio over the **2019–2025 period**, spanning five distinct market regimes including the COVID crash, the 2022 rate-shock bear market, and the AI-driven bull market.
+This project implements and **independently model validation** on a four-method Value-at-Risk (VaR) model suite for a multi-asset equity portfolio over the **2019–2025 period**, spanning five distinct market regimes including the COVID crash, the 2022 rate-shock bear market, and the AI-driven bull market.
 
 The project is structured as a formal **Second-Line MRM validation exercise** following the SR 11-7 framework, and styled to match professional Wall Street and econometrics presentation standards (white background, professional color palette, regime-shaded panels, monospace annotation boxes).
 
