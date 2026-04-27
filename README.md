@@ -106,4 +106,4 @@ var-validation-suite/
 
 ---
 
-**Author:** Kai Chen, PhD, CFA | [LinkedIn](https://linkedin.com/in/kaichen0515) | [GitHub](https://github.com/kchen0788)
+**Author:** Kai Chen, PhD, CFA | [LinkedIn](https://www.linkedin.com/in/kai-chen-phd-cfa-024696a1/) | [GitHub](https://github.com/kchen023)
