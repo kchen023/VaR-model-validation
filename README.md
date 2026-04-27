@@ -12,7 +12,7 @@
 
 This project implements and **independently model validation** on a four-method Value-at-Risk (VaR) model suite for a multi-asset equity portfolio over the **2019–2025 period**, spanning five distinct market regimes including the COVID crash, the 2022 rate-shock bear market, and the AI-driven bull market.
 
-The project is structured as a formal **Second-Line MRM validation exercise** following the SR 11-7 framework, and styled to match professional Wall Street and econometrics presentation standards (white background, professional color palette, regime-shaded panels, monospace annotation boxes).
+The project is structured as a **Second-Line MRM validation exercise** following the SR 11-7 framework, and styled to match professional Wall Street and econometrics presentation standards.
 
 ---
 
